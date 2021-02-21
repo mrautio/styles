@@ -212,7 +212,7 @@
   <macro name="title">
     <text variable="title"/>
   </macro>
-  <locale xml:lang="fi-FI">
+  <locale xml:lang="fi">
     <date form="text">
       <date-part name="day" suffix="."/>
       <date-part name="month" suffix="." form="numeric"/>
@@ -228,7 +228,7 @@
       <term name="page">s.</term>
     </terms>
   </locale>
-  <locale xml:lang="en-GB">
+  <locale xml:lang="en">
     <date form="text">
       <date-part name="day" suffix=" "/>
       <date-part name="month" suffix=" "/>
